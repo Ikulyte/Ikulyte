@@ -22,7 +22,7 @@
 <h2>📁 Projects :</h2>
 
 
-
+---
 
 
  <br />
@@ -34,7 +34,16 @@
 - **CompTIA** - CySa+ (In progress)
 
 
+---
 
+
+## Core Skills 🧰
+- 🛠️ **SIEM Platforms**: Splunk, Wazuh, Elastic Stack  
+- 💻 **Security Tools**: Wireshark, Zeek, VirusTotal  
+- 🐧 **Operating Systems**: Linux (Ubuntu, Kali), Windows  
+- 💻 **Scripting**: Bash, Python  
+- 🧠 **Threat Intelligence**: MITRE ATT&CK  
+- 📊 **Soft Skills**: Analytical thinking, teamwork, documentation
 
  <br />
 
