@@ -21,5 +21,16 @@
 
 <h2>📁 Projects :</h2>
 
+
+
+
+<h2>🎓 Certifications :</h2>
+
+- **CompTIA** – Security+
+- **CompTIA** - CySa+ (In progress)
+
+
+---
+
  <br />
 
