@@ -24,15 +24,6 @@
 
 
 
-
-
----
-
-
-
-
-
-
 <h2>🎓 Certifications :</h2>
 
 - **CompTIA** – Security+
