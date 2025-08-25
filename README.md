@@ -22,7 +22,11 @@
 <h2>📁 Projects :</h2>
 
 
+---
 
+
+ <br />
+ <br />
 
 <h2>🎓 Certifications :</h2>
 
