@@ -18,7 +18,7 @@
  <br />
 
 
-<h2>📁 Projects :</h2>
+<h2>📁 Projects</h2>
 
 
 
@@ -26,7 +26,7 @@
  <br />
  <br />
 
-<h2>🎓 Certifications :</h2>
+<h2>🎓 Certifications</h2>
 
 - **CompTIA** – Security+
 - **CompTIA** - CySa+ (In progress)
@@ -37,7 +37,7 @@
  <br />
  
 
-<h2>🧰 Core Skills :</h2>
+<h2>🧰 Core Skills</h2>
 
 - 🛠️ **SIEM Platforms**: Microsoft Sentinel
 - 💻 **Security Tools**:  
