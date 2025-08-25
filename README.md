@@ -11,7 +11,6 @@
  I’m an aspiring SOC Analyst with hands-on experience in log analysis, SIEM tools and threat detection. My portfolio highlights my practical knowledge of core SOC tasks.
 
  
----
 
 
 
@@ -22,7 +21,6 @@
 <h2>📁 Projects :</h2>
 
 
----
 
 
  <br />
@@ -34,8 +32,10 @@
 - **CompTIA** - CySa+ (In progress)
 
 
----
 
+ <br />
+ <br />
+ 
 
 ## Core Skills 🧰
 - 🛠️ **SIEM Platforms**: Splunk, Wazuh, Elastic Stack  
