@@ -37,11 +37,12 @@
  <br />
  
 
-## Core Skills 🧰
-- 🛠️ **SIEM Platforms**: Splunk, Wazuh, Elastic Stack  
-- 💻 **Security Tools**: Wireshark, Zeek, VirusTotal  
-- 🐧 **Operating Systems**: Linux (Ubuntu, Kali), Windows  
-- 💻 **Scripting**: Bash, Python  
+<h2>🧰 Core Skills :</h2>
+
+- 🛠️ **SIEM Platforms**: Microsoft Sentinel
+- 💻 **Security Tools**:  
+- 🐧 **Operating Systems**:  
+- 💻 **Scripting**: Python 
 - 🧠 **Threat Intelligence**: MITRE ATT&CK  
 - 📊 **Soft Skills**: Analytical thinking, teamwork, documentation
 
