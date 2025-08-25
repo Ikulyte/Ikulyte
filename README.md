@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hello👋,  I'm Charlie</h1>
+<h3 align="center">A passionate IT & Cybersecurity professional committed to protecting data and enhancing cybersecurity measures</h3>
+ <br />
 
-<!--
-**Ikulyte/Ikulyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ Thank you for visiting my Github page. This repository allows me to showcase my cybersecurity journey and the projects I have been working on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+ These projects showcase my problem-solving approach, attention to detail and my ability to analyse potential risks, implementing the appropriate mitigation.
+
+ I’m an aspiring SOC Analyst with hands-on experience in log analysis, SIEM tools and threat detection. My portfolio highlights my practical knowledge of core SOC tasks.
+
+ 
+---
+
+
+
+ <br />
+ <br />
+
+
+<h2>📁 Projects :</h2>
+
+ <br />
+
