@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋,  I'm Charlie</h1>
-<h3 align="center">A passionate IT & Cybersecurity professional committed to protecting data and enhancing cybersecurity measures</h3>
+<h3 align="center">A passionate IT & Cybersecurity enthusiast committed to protecting data and enhancing cybersecurity measures</h3>
  <br />
 
 
