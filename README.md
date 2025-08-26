@@ -40,7 +40,7 @@
 <h2>🧰 Core Skills</h2>
 
 - 🛠️ **SIEM Platforms**: Microsoft Sentinel
-- 💻 **Security Tools**:  
+- 💻 **Security Tools**: VirusTotal
 - 🐧 **Operating Systems**:  
 - 💻 **Scripting**: Python 
 - 🧠 **Threat Intelligence**: MITRE ATT&CK  
