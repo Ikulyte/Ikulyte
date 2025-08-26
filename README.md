@@ -20,7 +20,7 @@
 
 <h2>📁 Projects</h2>
 
-
+- [Azure-Home-SOC-Lab](https://github.com/Ikulyte/Azure-Home-SOC-Lab)
 
 
  <br />
